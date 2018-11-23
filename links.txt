@@ -1,0 +1,4 @@
+https://data-flair.training/blogs/array-vs-arraylist-java/
+https://www.javainterviewpoint.com/differences-betwen-hashmap-hashtable/
+https://www.tuturself.com/posts/view?menuId=99&postId=1007
+https://www.javamadesoeasy.com/2015/02/set-custom-implementation.html
